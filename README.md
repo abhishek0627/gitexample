@@ -1,3 +1,3 @@
 # gitexample
 
-Hello IBM
+Hello IBMers
